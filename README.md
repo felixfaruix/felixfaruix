@@ -77,17 +77,17 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 <details>
 <summary> <strong>Technical Architecture</strong></summary>
 
-- **RAG Pipeline**: Custom ML models trained on 2 years of historical invoice data
-- **Integration Layer**: Business Central & Azure Blob Storage with real-time webhooks
-- **State Management**: CosmosDB for persistent workflow state and audit trails
-- **API Layer**: FastAPI for high-performance document processing endpoints
-- **Orchestration**: LangGraph agents for intelligent workflow routing and validation
+ **RAG Pipeline**: Custom ML models trained on 2 years of historical invoice data
+ **Integration Layer**: Business Central & Azure Blob Storage with real-time webhooks
+ **State Management**: CosmosDB for persistent workflow state and audit trails
+ **API Layer**: FastAPI for high-performance document processing endpoints
+ **Orchestration**: LangGraph agents for intelligent workflow routing and validation
 
 **Key Innovations:**
-- Risk-based approval routing with ML-driven confidence scoring
-- Real-time stream processing for immediate invoice status updates
-- Custom OCR pipeline optimized for invoice layouts and formats
-- Automated vendor master data reconciliation and validation
+ Risk-based approval routing with ML-driven confidence scoring
+ Real-time stream processing for immediate invoice status updates
+ Custom OCR pipeline optimized for invoice layouts and formats
+ Automated vendor master data reconciliation and validation
 
 </details>
 
@@ -104,8 +104,8 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 ** Tech Stack:** ![LangGraph](https://img.shields.io/badge/-LangGraph-8B7355?style=flat-square&logo=graph&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-** Features:** Multi-agent coordination • Persistent memory • Tool orchestration  
-** Agents:** Document Parser • Data Validator • Business Logic • Workflow Controller
+ Features: Multi-agent coordination • Persistent memory • Tool orchestration  
+ Agents: Document Parser • Data Validator • Business Logic • Workflow Controller
 
 <details>
 <summary> <strong>Agent Architecture</strong></summary>
@@ -134,10 +134,10 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 *Advanced time series forecasting with Spatio-Temporal Graph Neural Networks for complex pattern recognition*
 
-** Tech Stack:** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+ Tech Stack: ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-** Focus Areas:** ST-GNN architectures • Multi-variate forecasting • Spatial-temporal modeling  
-** Research:** Novel architectures for complex pattern recognition in time series data
+ Focus Areas: ST-GNN architectures • Multi-variate forecasting • Spatial-temporal modeling  
+ Research: Novel architectures for complex pattern recognition in time series data
 
 <details>
 <summary> <strong>Research & Innovation</strong></summary>
@@ -166,10 +166,10 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 *Enterprise integration platform with Azure Logic Apps for seamless business process automation*
 
-** Tech Stack:** ![Azure](https://img.shields.io/badge/-Azure%20Logic%20Apps-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![PowerAutomate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=microsoft&logoColor=white) ![ServiceBus](https://img.shields.io/badge/-Service%20Bus-228B22?style=flat-square&logo=microsoft-azure&logoColor=white)
+ Tech Stack: ![Azure](https://img.shields.io/badge/-Azure%20Logic%20Apps-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![PowerAutomate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=microsoft&logoColor=white) ![ServiceBus](https://img.shields.io/badge/-Service%20Bus-228B22?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-** Solutions:** Workflow automation • System integration • Event-driven architectures  
-** Integrations:** ERP systems • CRM platforms • Document management • API orchestration
+ Solutions: Workflow automation • System integration • Event-driven architectures  
+ Integrations: ERP systems • CRM platforms • Document management • API orchestration
 
 <details>
 <summary> <strong>Integration Architecture</strong></summary>
