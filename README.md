@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Felice%20Faruolo&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,30:764ba2,60:f093fb,100:667eea&height=400&section=header&text=Felice%20Faruolo&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=30&desc=AI%20Solution%20Architect%20•%20Machine%20Learning%20Passionate&descSize=20&descAlignY=55&descColor=E8E8E8&stroke=FFFFFF&strokeWidth=3" />
+</div>
+
+<div align="center" style="margin-top: -50px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Automating+Complex+Workflows;Transforming+Data+into+Insights;Creating+Production-Ready+Solutions" alt="Futuristic Typing SVG" />
 </div>
 
 <div align="center">
