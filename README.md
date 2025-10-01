@@ -3,20 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,30&height=100&section=header&text=AI%20Solution%20Architect&fontSize=30&fontColor=8B7355&animation=blinking&fontAlignY=70&desc=Transforming%20Ideas%20into%20Intelligent%20Solutions&descAlignY=85&descSize=14" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+Solution+Architect;Machine+Learning+Passionate;RAG+Systems+Specialist;Agent+Orchestration+Expert;Document+Processing+Architect;LangGraph+%26+Azure+Specialist" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B7355&center=true&vCenter=true&width=700&lines=AI+Solution+Architect;Machine+Learning+Passionate;RAG+Systems+Specialist;Agent+Orchestration+Expert;Document+Processing+Architect;LangGraph+%26+Azure+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B7355&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Automating+Complex+Workflows;Transforming+Data+into+Insights;Creating+Production-Ready+Solutions" alt="Secondary Typing SVG" />
 </div>
 
----
-
-## About Me
-
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=FeliceFaruolo&custom_title=Weekly%20Coding%20Activity&bg_color=F5F5DC&title_color=8B4513&text_color=8B7355&border_color=D2B48C&border_radius=10" />
-</div>
 ---
 ## Tech Stack & Expertise
 
