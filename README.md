@@ -1,12 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&h**🎯 Features:** Multi-agent coor**🎯 Focus Areas:** ST-GNN architectures • Multi-variate forecasting • Spatial-temporal modeling  
-**### 💡 **Ask Me About**
-- 🧾 **Intelligent document processing** with ML models and RAG systems
-- 🤖 **LangGraph agent design** patterns and multi-agent coordination
-- 📈 **Regression models** and advanced forecasting techniques with ST-GNNs
-- ☁️ **Azure Logic Apps** integration and distributed system architectures
-- 🔬 **AI research** implementation and production deployment strategiesearch:** Novel architectures for complex pattern recognition in time series datanation • Persistent memory • Tool orchestration  
-**🤖 Agents:** Document Parser • Data Validator • Business Logic • Workflow Controllerght=200&section=header&text=Felice%20Faruolo&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Felice%20Faruolo&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <div align="center">
@@ -14,12 +7,15 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B7355&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;RAG+Systems+Specialist;Agent+Orchestration+Expert;Document+Processing+Architect;LangGraph+%26+Azure+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B7355&center=true&vCenter=true&width=700&lines=AI+Solution+Architect;Machine+Learning+Passionate;RAG+Systems+Specialist;Agent+Orchestration+Expert;Document+Processing+Architect;LangGraph+%26+Azure+Specialist" alt="Typing SVG" />
 </div>
 
+---
+
+## About Me
+
 <div align="center">
-  <img src="https://komarev.com/ghpv/?username=FeliceFaruolo&color=8B7355&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/FeliceFaruolo?color=8B7355&style=for-the-badge&label=FOLLOWERS" alt="Followers" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=FeliceFaruolo&custom_title=Weekly%20Coding%20Activity&bg_color=F5F5DC&title_color=8B4513&text_color=8B7355&border_color=D2B48C&border_radius=10" />
 </div>
 ---
 ## Tech Stack & Expertise
