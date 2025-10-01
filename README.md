@@ -23,7 +23,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-8B7355?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-D2B48C?style=for-the-badge&logo=openai&logoColor=8B4513)
 ![LangGraph](https://img.shields.io/badge/LangGraph-DEB887?style=for-the-badge&logo=graph&logoColor=8B4513)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-228B22?style=for-the-badge&logo=database&logoColor=white)
 
 ### Backend & Infrastructure
 ![FastAPI](https://img.shields.io/badge/FastAPI-4682B4?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -73,7 +72,6 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 **🔧 Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-8B7355?style=flat-square&logo=graph&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![CosmosDB](https://img.shields.io/badge/-CosmosDB-4682B4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 **🎯 Key Achievements:** 70% reduction in manual effort • 95% automation rate • Real-time processing  
-**� Impact:** Processing 6,500+ documents/year with intelligent risk-based approval workflows
 
 <details>
 <summary><strong>Technical Architecture</strong></summary>
@@ -85,10 +83,11 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
  **Orchestration**: LangGraph agents for intelligent workflow routing and validation
 
 **Key Innovations:**
-- Risk-based approval routing with ML-driven confidence scoring
-- Real-time stream processing for immediate invoice status updates
-- Custom OCR pipeline optimized for invoice layouts and formats
-- Automated vendor master data reconciliation and validation
+ Risk-based approval routing with ML-driven confidence scoring
+ Real-time stream processing for immediate invoice status updates
+ Custom OCR pipeline optimized for invoice layouts and formats
+ Automated vendor master data reconciliation and validation
+ 
 ---
 
 ### � **LangGraph Agent Orchestration Framework**
@@ -144,6 +143,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
  Attention-based temporal modeling with memory mechanisms
  Multi-scale feature extraction for diverse forecasting horizons
  Production deployment patterns for real-time inference
+ 
 ---
 
 ### 🏗️ **Azure Logic Apps & Distributed Systems**
@@ -183,20 +183,20 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 ### **Currently Working On**
    Scaling invoice processing to **13K+ documents** with AI automation
--  Advanced **LangGraph agent architectures** for business process automation  
--  **ST-GNN research** for spatio-temporal forecasting applications
--  **Azure integration patterns** with Logic Apps and distributed systems
--  Reading latest **AI research papers** in ML and NLP domains
+  Advanced **LangGraph agent architectures** for business process automation  
+  **ST-GNN research** for spatio-temporal forecasting applications
+  **Azure integration patterns** with Logic Apps and distributed systems
+  Reading latest **AI research papers** in ML and NLP domains
 
 </td>
 <td align="center" width="50%">
 
 ### Looking to Collaborate
-- **RAG systems** optimization and vector database architectures
-- **Production ML pipelines** for enterprise document processing
-- **Agent orchestration** patterns with LangGraph
-- **Time series forecasting** with graph neural networks
-- **Azure AI architectures** and deployment strategies
+ **RAG systems** optimization and vector database architectures
+ **Production ML pipelines** for enterprise document processing
+ **Agent orchestration** patterns with LangGraph
+ **Time series forecasting** with graph neural networks
+ **Azure AI architectures** and deployment strategies
 
 </td>
 </tr>
@@ -231,9 +231,9 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B7355?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felice-faruolo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B7355?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/felice-faruolo](https://www.linkedin.com/in/felixfaruolo/))
 [![Email](https://img.shields.io/badge/Email-D2B48C?style=for-the-badge&logo=gmail&logoColor=8B4513)](mailto:felice.faruolo@nedstar.com)
-[![GitHub](https://img.shields.io/badge/GitHub-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeliceFaruolo)
+[![GitHub](https://img.shields.io/badge/GitHub-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felixfaruix)
 [![Nedstar](https://img.shields.io/badge/Nedstar-228B22?style=for-the-badge&logo=building&logoColor=white)](https://nedstar.com)
 
 </div>
