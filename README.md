@@ -119,19 +119,19 @@ I specialize in building **end-to-end AI solutions** that bridge cutting-edge re
 
 ---
 
-### 🤖 **LangGraph Multi-Agent System**
+### **LangGraph Multi-Agent System**
 <img src="https://img.shields.io/badge/Status-Development-DEB887?style=flat-square&labelColor=F5E6D3" />
 <img src="https://img.shields.io/badge/LangGraph-0.0.26+-4682B4?style=flat-square&labelColor=F5E6D3" />
 <img src="https://img.shields.io/badge/Agents-6-8B7355?style=flat-square&labelColor=F5E6D3" />
 
 *Orchestrated AI agents for complex business process automation and decision making*
 
-**🔧 Tech Stack:** LangGraph • Redis • PostgreSQL • Docker • Monitoring Stack  
-**🎯 Key Features:** State management • Tool orchestration • Memory persistence  
-**🔄 Agents:** Research • Analysis • Execution • Monitoring • Validation • Reporting
+**Tech Stack:** LangGraph • Redis • PostgreSQL • Docker • Monitoring Stack  
+**Key Features:** State management • Tool orchestration • Memory persistence  
+**Agents:** Research • Analysis • Execution • Monitoring • Validation • Reporting
 
 <details>
-<summary>🔍 <strong>Technical Deep Dive</strong></summary>
+<summary><strong>Technical Deep Dive</strong></summary>
 
 - **Agent Architecture**: 6 specialized agents with distinct roles and capabilities
 - **State Management**: Persistent conversation memory with Redis clustering
@@ -153,7 +153,7 @@ I specialize in building **end-to-end AI solutions** that bridge cutting-edge re
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeliceFaruolo&show_icons=true&bg_color=F5F5DC&title_color=8B4513&text_color=8B7355&icon_color=4682B4&border_color=D2B48C&include_all_commits=true&count_private=true&border_radius=10"/>
@@ -166,7 +166,7 @@ I specialize in building **end-to-end AI solutions** that bridge cutting-edge re
 
 ---
 
-## 🎯 Current Focus & Collaboration
+## Current Focus & Collaboration
 
 <div align="center">
 
@@ -174,20 +174,20 @@ I specialize in building **end-to-end AI solutions** that bridge cutting-edge re
 <tr>
 <td align="center" width="50%">
 
-### 🔬 **Currently Working On**
-- 📈 Hierarchical forecasting models for supply chain optimization
-- 🤖 Advanced multi-agent systems with LangGraph
-- ☁️ Azure architecture patterns for ML pipelines
-- 📊 Real-time streaming analytics with Kafka
+### **Currently Working On**
+- Hierarchical forecasting models for supply chain optimization
+- Advanced multi-agent systems with LangGraph
+- Azure architecture patterns for ML pipelines
+- Real-time streaming analytics with Kafka
 
 </td>
 <td align="center" width="50%">
 
-### 🤝 **Looking to Collaborate**
-- 🔍 RAG systems and vector databases
-- 🚀 Production ML pipeline optimization
-- 🧠 Large language model fine-tuning
-- 📱 AI-powered business automation
+###  **Looking to Collaborate**
+- RAG systems and vector databases
+- Production ML pipeline optimization
+- Large language model fine-tuning
+- AI-powered business automation
 
 </td>
 </tr>
@@ -195,7 +195,7 @@ I specialize in building **end-to-end AI solutions** that bridge cutting-edge re
 
 </div>
 
-### 💡 **Ask Me About**
+###  **Ask Me About**
 - 🔮 Time series forecasting and hierarchical modeling
 - 📄 Document AI and intelligent processing systems
 - 🤖 LangGraph agent orchestration and design patterns
@@ -203,7 +203,7 @@ I specialize in building **end-to-end AI solutions** that bridge cutting-edge re
 
 ---
 
-## 🏆 Achievements & Recognition
+##  Achievements & Recognition
 
 <div align="center">
 
@@ -213,7 +213,7 @@ I specialize in building **end-to-end AI solutions** that bridge cutting-edge re
 
 <div align="center">
 
-| 📈 **Metric** | 🎯 **Achievement** |
+| **Metric** | **Achievement** |
 |:-------------:|:-----------------:|
 | **Projects Deployed** | ![Production](https://img.shields.io/badge/12+-228B22?style=flat-square&labelColor=F5E6D3) |
 | **Research Papers** | ![Papers](https://img.shields.io/badge/3-CD853F?style=flat-square&labelColor=F5E6D3) |
@@ -224,7 +224,7 @@ I specialize in building **end-to-end AI solutions** that bridge cutting-edge re
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -239,7 +239,7 @@ I specialize in building **end-to-end AI solutions** that bridge cutting-edge re
 
 <div align="center">
   
-### 🌟 **"Innovation distinguishes between a leader and a follower"** - Steve Jobs
+### **"Innovation distinguishes between a leader and a follower"** - Steve Jobs
 
 *Let's build the future of AI together, one algorithm at a time* 🚀
 
@@ -249,10 +249,6 @@ I specialize in building **end-to-end AI solutions** that bridge cutting-edge re
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=8B7355&animation=fadeIn" />
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/FeliceFaruolo/FeliceFaruolo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
