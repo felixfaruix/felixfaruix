@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF5&center=true&vCenter=true&width=435&lines=AI+Solution+Architect;Deep+Learning+Researcher;Full-Stack+ML+Engineer" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## About Me
 
 I specialize in building end-to-end AI solutions that bridge cutting-edge research with production systems. My work focuses on hierarchical forecasting, intelligent document processing, and autonomous agent systems.
 
@@ -12,7 +12,7 @@ I specialize in building end-to-end AI solutions that bridge cutting-edge resear
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## Tech Stack & Expertise
 
 ### 🧠 AI/ML Core
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -30,7 +30,6 @@ I specialize in building end-to-end AI solutions that bridge cutting-edge resear
 ### ⚡ Backend & Infrastructure
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 📊 Data Engineering
@@ -40,22 +39,22 @@ I specialize in building end-to-end AI solutions that bridge cutting-edge resear
 
 ---
 
-## 🔬 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-### 📈 Hierarchical Multi-Scale Forecasting System
+### Hierarchical Multi-Scale Forecasting System
 <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
 <img src="https://img.shields.io/badge/PyTorch-1.13+-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/Research-Paper-orange?style=flat-square" />
 
-📄 Intelligent Invoice Automation Platform
+Intelligent Invoice Automation Platform
 <img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" />
 <img src="https://img.shields.io/badge/LangGraph-Latest-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/FastAPI-0.104+-green?style=flat-square" />
 End-to-end document processing with autonomous agents
 <details>
-<summary>🔍 Technical Details</summary>
+<summary> Technical Details</summary>
 
 RAG Pipeline: ChromaDB + OpenAI Embeddings
 Agent Framework: LangGraph with custom tools
@@ -68,23 +67,14 @@ Intelligent field extraction with 98% accuracy
 Automated validation and approval workflows
 Real-time processing with event streaming
 
-
-
-mermaidgraph LR
-    A[Invoice Input] --> B[OCR/Extraction]
-    B --> C[RAG Enhancement]
-    C --> D[Validation Agent]
-    D --> E[Approval Workflow]
-    E --> F[ERP Integration]
-View Repository →
 </details>
 
-🤖 LangGraph Multi-Agent System
+LangGraph Multi-Agent System
 <img src="https://img.shields.io/badge/Status-Development-yellow?style=flat-square" />
 <img src="https://img.shields.io/badge/LangGraph-0.0.26+-blue?style=flat-square" />
 Orchestrated AI agents for complex business processes
 <details>
-<summary>🔍 Technical Details</summary>
+<summary> Technical Details</summary>
 
 Agent Types: Research, Analysis, Execution, Monitoring
 Memory: Persistent conversation memory with Redis
@@ -95,43 +85,22 @@ View Repository →
 </details>
 </div>
 
-📊 GitHub Analytics
+GitHub Analytics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-🎯 Current Focus
+Current Focus
 
-🔭 Working on: Hierarchical forecasting models for supply chain optimization
-🌱 Learning: Mamba architectures and state-space models
-👯 Looking to collaborate on: RAG systems and production ML pipelines
-💬 Ask me about: Deep learning, time series, document AI, LangGraph agents
-
-
-📚 Recent Blog Posts & Research
-<!-- BLOG-POST-LIST:START -->
-
-Building Production RAG Systems with LangGraph
-Hierarchical Forecasting: A Multi-Scale Approach
-Invoice Automation: From OCR to Intelligence
-
-<!-- BLOG-POST-LIST:END -->
-
-🏆 Achievements
-
-🥇 Top 5% in M5 Forecasting Competition
-📝 3 Papers on hierarchical time series modeling
-🚀 10+ Production ML systems deployed
-💼 $2M+ saved through automation solutions
+Working on: Hierarchical forecasting models for supply chain optimization
+Learning: Azure architectures 
+Looking to collaborate on: RAG systems and production ML pipelines
+Ask me about: Deep learning, time series, document AI, LangGraph agents
 
 
-📫 Connect With Me
+Connect With Me
 <div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
 </div>
 
 <div align="center">
