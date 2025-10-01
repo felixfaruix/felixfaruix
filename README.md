@@ -180,7 +180,8 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 <table>
 <tr>
 <td align="center" width="50%">
-### **Currently Working On**
+  
+### Currently Working On
   Scaling invoice processing to **13K+ documents** with AI automation
   Advanced **LangGraph agent architectures** for business process automation  
   **ST-GNN research** for spatio-temporal forecasting applications
@@ -189,6 +190,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 </td>
 <td align="center" width="50%">
+  
 ### Looking to Collaborate
  **RAG systems** optimization and vector database architectures
  **Production ML pipelines** for enterprise document processing
