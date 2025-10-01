@@ -89,6 +89,8 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
  Custom OCR pipeline optimized for invoice layouts and formats
  Automated vendor master data reconciliation and validation
 
+ <details>
+
 ---
 
 ###  **LangGraph Agent Orchestration Framework**
@@ -106,16 +108,18 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 <details>
 <summary> <strong>Agent Architecture</strong></summary>
 
-- **Coordination Layer**: State machines for complex workflow orchestration
-- **Memory Management**: Redis-backed persistent conversation and context memory
-- **Tool Integration**: 12+ specialized tools for data processing and external system integration
-- **Monitoring**: Real-time agent performance tracking and decision logging
+ **Coordination Layer**: State machines for complex workflow orchestration
+ **Memory Management**: Redis-backed persistent conversation and context memory
+ **Tool Integration**: 12+ specialized tools for data processing and external system integration
+ **Monitoring**: Real-time agent performance tracking and decision logging
 
 **Agent Specializations:**
-- **Document Agent**: Multi-format parsing, structure extraction, content validation
-- **Validation Agent**: Business rule enforcement, data quality checks, compliance verification
-- **Integration Agent**: ERP system connectivity, API orchestration, data synchronization
-- **Monitoring Agent**: Performance tracking, anomaly detection, alert management
+ **Document Agent**: Multi-format parsing, structure extraction, content validation
+ **Validation Agent**: Business rule enforcement, data quality checks, compliance verification
+ **Integration Agent**: ERP system connectivity, API orchestration, data synchronization
+ **Monitoring Agent**: Performance tracking, anomaly detection, alert management
+
+<details>
 
 ---
 
@@ -134,17 +138,18 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 <details>
 <summary> <strong>Research & Innovation</strong></summary>
 
-- **ST-GNN Models**: Spatio-Temporal Graph Neural Networks for capturing complex dependencies
-- **Forecasting Pipeline**: End-to-end system for multi-horizon prediction tasks
-- **Model Architecture**: Custom attention mechanisms for temporal and spatial relationships
-- **Evaluation Framework**: Comprehensive benchmarking against traditional and modern methods
+ **ST-GNN Models**: Spatio-Temporal Graph Neural Networks for capturing complex dependencies
+ **Forecasting Pipeline**: End-to-end system for multi-horizon prediction tasks
+ **Model Architecture**: Custom attention mechanisms for temporal and spatial relationships
+ **Evaluation Framework**: Comprehensive benchmarking against traditional and modern methods
 
 **Technical Contributions:**
-- Novel graph construction methods for time series relationships
-- Attention-based temporal modeling with memory mechanisms
-- Multi-scale feature extraction for diverse forecasting horizons
-- Production deployment patterns for real-time inference
+ Novel graph construction methods for time series relationships
+ Attention-based temporal modeling with memory mechanisms
+ Multi-scale feature extraction for diverse forecasting horizons
+ Production deployment patterns for real-time inference
   
+<details>
 ---
 
 ###  **Azure Logic Apps & Distributed Systems**
@@ -162,17 +167,17 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 <details>
 <summary> <strong>Integration Architecture</strong></summary>
 
-- **Workflow Engine**: Azure Logic Apps for complex business process orchestration
-- **Event Processing**: Real-time event streaming and processing pipelines
-- **API Management**: Centralized API gateway with authentication and rate limiting
-- **Data Transformation**: ETL pipelines for data harmonization across systems
+ **Workflow Engine**: Azure Logic Apps for complex business process orchestration
+ **Event Processing**: Real-time event streaming and processing pipelines
+ **API Management**: Centralized API gateway with authentication and rate limiting
+ **Data Transformation**: ETL pipelines for data harmonization across systems
 
 **Key Implementations:**
-- Multi-system data synchronization with conflict resolution
-- Automated approval workflows with escalation rules
-- Real-time monitoring and alerting for business processes
-- Scalable integration patterns for enterprise applications
-
+ Multi-system data synchronization with conflict resolution
+ Automated approval workflows with escalation rules
+ Real-time monitoring and alerting for business processes
+ Scalable integration patterns for enterprise applications
+<details>
 </div>
 
 ---
