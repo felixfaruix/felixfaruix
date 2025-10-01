@@ -11,6 +11,10 @@
 
 <div align="center">
 
+### Programmin Language 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=48)
+
 ### AI/ML Core
 ![PyTorch](https://img.shields.io/badge/PyTorch-8B4513?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-D2B48C?style=for-the-badge&logo=TensorFlow&logoColor=8B4513)
