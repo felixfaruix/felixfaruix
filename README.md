@@ -29,6 +29,34 @@
 </div>
 
 ---
+## Tech Stack & Expertise
+
+<div align="center">
+
+### AI/ML Core
+![PyTorch](https://img.shields.io/badge/PyTorch-8B4513?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-D2B48C?style=for-the-badge&logo=TensorFlow&logoColor=8B4513)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F5E6D3?style=for-the-badge&logo=scikit-learn&logoColor=8B4513)
+![Pandas](https://img.shields.io/badge/pandas-228B22?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-4682B4?style=for-the-badge&logo=numpy&logoColor=white)
+
+### LLM & RAG Systems
+![LangChain](https://img.shields.io/badge/LangChain-8B7355?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-D2B48C?style=for-the-badge&logo=openai&logoColor=8B4513)
+![LangGraph](https://img.shields.io/badge/LangGraph-DEB887?style=for-the-badge&logo=graph&logoColor=8B4513)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-228B22?style=for-the-badge&logo=database&logoColor=white)
+
+### Backend & Infrastructure
+![FastAPI](https://img.shields.io/badge/FastAPI-4682B4?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-4682B4?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-CD853F?style=for-the-badge&logo=redis&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-4682B4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Data Engineering
+![PostgreSQL](https://img.shields.io/badge/postgres-228B22?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-228B22?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
 
 ## About Me
 
@@ -57,36 +85,6 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 > *"Turning AI research into production-ready solutions that drive business transformation"*
 
 ---
-
-## Tech Stack & Expertise
-
-<div align="center">
-
-### AI/ML Core
-![PyTorch](https://img.shields.io/badge/PyTorch-8B4513?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-D2B48C?style=for-the-badge&logo=TensorFlow&logoColor=8B4513)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F5E6D3?style=for-the-badge&logo=scikit-learn&logoColor=8B4513)
-![Pandas](https://img.shields.io/badge/pandas-228B22?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-4682B4?style=for-the-badge&logo=numpy&logoColor=white)
-
-### LLM & RAG Systems
-![LangChain](https://img.shields.io/badge/LangChain-8B7355?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-D2B48C?style=for-the-badge&logo=openai&logoColor=8B4513)
-![LangGraph](https://img.shields.io/badge/LangGraph-DEB887?style=for-the-badge&logo=graph&logoColor=8B4513)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-228B22?style=for-the-badge&logo=database&logoColor=white)
-
-### Backend & Infrastructure
-![FastAPI](https://img.shields.io/badge/FastAPI-4682B4?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-4682B4?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-CD853F?style=for-the-badge&logo=redis&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-4682B4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### Data Engineering
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-8B7355?style=for-the-badge&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-228B22?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-228B22?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
 
 ---
 
