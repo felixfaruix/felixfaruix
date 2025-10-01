@@ -149,7 +149,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 <details>
 <summary> <strong>Research & Innovation</strong></summary>
 
- **ST-GNN Models**: Spatio-Temporal Graph Neural Networks for capturing complex dependencies
+ **Hierarchical LSTM Models**: Spatio-Temporal Graph Neural Networks for capturing complex dependencies
  **Forecasting Pipeline**: End-to-end system for multi-horizon prediction tasks
  **Model Architecture**: Custom attention mechanisms for temporal and spatial relationships
  **Evaluation Framework**: Comprehensive benchmarking against traditional and modern methods
