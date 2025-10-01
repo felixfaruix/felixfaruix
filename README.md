@@ -60,10 +60,6 @@
 
 ## About Me
 
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=FeliceFaruolo&custom_title=Weekly%20Coding%20Activity&bg_color=F5F5DC&title_color=8B4513&text_color=8B7355&border_color=D2B48C&border_radius=10" />
-</div>
-
 I am an **AI graduate** with passion and hands-on experience in **Machine Learning**, **forecasting**, **Regression models**, **RAG systems**, **Agent Orchestration via LangGraph**, and **Distributed Systems** with **Azure Logic Apps**. Currently working as an **AI/Software Developer** at **Nedstar** in Amsterdam, Netherlands, where I have experience in **Business Process Automation** and have worked on various transition projects.
 
 I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing solutions through innovative model architectures. In my free time I also read the newest research papers in the field.
