@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=300&size=24&duration=3000&pause=1000&color=8A8A8A&center=true&vCenter=true&width=400&height=60&lines=Machine+Learning+Passionate;Building+Tomorrow's+AI;Innovating+with+Intelligence" alt="Animated Subtitle" />
 </div>
 
-
-</div>
-
 </div>
 
 ## Tech Stack & Expertise
@@ -79,24 +76,19 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 **� Impact:** Processing 6,500+ documents/year with intelligent risk-based approval workflows
 
 <details>
-<summary>🔍 <strong>Technical Architecture</strong></summary>
+<summary><strong>Technical Architecture</strong></summary>
 
-- **RAG Pipeline**: Custom ML models trained on 2 years of historical invoice data
-- **Integration Layer**: Business Central & Azure Blob Storage with real-time webhooks
-- **State Management**: CosmosDB for persistent workflow state and audit trails
-- **API Layer**: FastAPI for high-performance document processing endpoints
-- **Orchestration**: LangGraph agents for intelligent workflow routing and validation
+ **RAG Pipeline**: Custom ML models trained on 2 years of historical invoice data
+ **Integration Layer**: Business Central & Azure Blob Storage with real-time webhooks
+ **State Management**: CosmosDB for persistent workflow state and audit trails
+ **API Layer**: FastAPI for high-performance document processing endpoints
+ **Orchestration**: LangGraph agents for intelligent workflow routing and validation
 
 **Key Innovations:**
 - Risk-based approval routing with ML-driven confidence scoring
 - Real-time stream processing for immediate invoice status updates
 - Custom OCR pipeline optimized for invoice layouts and formats
 - Automated vendor master data reconciliation and validation
-
-</details>
-
-[🔗 **Live System**](https://nedstar.com) • [� **Performance Metrics**](https://nedstar.com/invoice-automation)
-
 ---
 
 ### � **LangGraph Agent Orchestration Framework**
@@ -112,22 +104,18 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 **� Agents:** Document Parser • Data Validator • Business Logic • Workflow Controller
 
 <details>
-<summary>🔍 <strong>Agent Architecture</strong></summary>
+<summary> <strong>Agent Architecture</strong></summary>
 
-- **Coordination Layer**: State machines for complex workflow orchestration
-- **Memory Management**: Redis-backed persistent conversation and context memory
-- **Tool Integration**: 12+ specialized tools for data processing and external system integration
-- **Monitoring**: Real-time agent performance tracking and decision logging
+ **Coordination Layer**: State machines for complex workflow orchestration
+ **Memory Management**: Redis-backed persistent conversation and context memory
+ **Tool Integration**: 12+ specialized tools for data processing and external system integration
+ **Monitoring**: Real-time agent performance tracking and decision logging
 
 **Agent Specializations:**
-- **Document Agent**: Multi-format parsing, structure extraction, content validation
-- **Validation Agent**: Business rule enforcement, data quality checks, compliance verification
-- **Integration Agent**: ERP system connectivity, API orchestration, data synchronization
-- **Monitoring Agent**: Performance tracking, anomaly detection, alert management
-
-</details>
-
-[🔗 **View Framework**](https://github.com/FeliceFaruolo/langgraph-framework) • [📚 **Documentation**](https://langgraph-docs.netlify.app)
+ **Document Agent**: Multi-format parsing, structure extraction, content validation
+ **Validation Agent**: Business rule enforcement, data quality checks, compliance verification
+ **Integration Agent**: ERP system connectivity, API orchestration, data synchronization
+ **Monitoring Agent**: Performance tracking, anomaly detection, alert management
 
 ---
 
@@ -146,21 +134,16 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 <details>
 <summary>🔍 <strong>Research & Innovation</strong></summary>
 
-- **ST-GNN Models**: Spatio-Temporal Graph Neural Networks for capturing complex dependencies
-- **Forecasting Pipeline**: End-to-end system for multi-horizon prediction tasks
-- **Model Architecture**: Custom attention mechanisms for temporal and spatial relationships
-- **Evaluation Framework**: Comprehensive benchmarking against traditional and modern methods
+ **ST-GNN Models**: Spatio-Temporal Graph Neural Networks for capturing complex dependencies
+ **Forecasting Pipeline**: End-to-end system for multi-horizon prediction tasks
+ **Model Architecture**: Custom attention mechanisms for temporal and spatial relationships
+ **Evaluation Framework**: Comprehensive benchmarking against traditional and modern methods
 
 **Technical Contributions:**
-- Novel graph construction methods for time series relationships
-- Attention-based temporal modeling with memory mechanisms
-- Multi-scale feature extraction for diverse forecasting horizons
-- Production deployment patterns for real-time inference
-
-</details>
-
-[🔗 **Research Code**](https://github.com/FeliceFaruolo/st-gnn-forecasting) • [📄 **Papers**](https://scholar.google.com/citations?user=your-id)
-
+ Novel graph construction methods for time series relationships
+ Attention-based temporal modeling with memory mechanisms
+ Multi-scale feature extraction for diverse forecasting horizons
+ Production deployment patterns for real-time inference
 ---
 
 ### 🏗️ **Azure Logic Apps & Distributed Systems**
@@ -175,21 +158,17 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 <details>
 <summary>🔍 <strong>Integration Architecture</strong></summary>
 
-- **Workflow Engine**: Azure Logic Apps for complex business process orchestration
-- **Event Processing**: Real-time event streaming and processing pipelines
-- **API Management**: Centralized API gateway with authentication and rate limiting
-- **Data Transformation**: ETL pipelines for data harmonization across systems
+ **Workflow Engine**: Azure Logic Apps for complex business process orchestration
+ **Event Processing**: Real-time event streaming and processing pipelines
+ **API Management**: Centralized API gateway with authentication and rate limiting
+ **Data Transformation**: ETL pipelines for data harmonization across systems
 
 **Key Implementations:**
-- Multi-system data synchronization with conflict resolution
-- Automated approval workflows with escalation rules
-- Real-time monitoring and alerting for business processes
-- Scalable integration patterns for enterprise applications
-
-</details>
-
-[🔗 **Architecture Docs**](https://github.com/FeliceFaruolo/azure-integration) • [🏗️ **Templates**](https://github.com/FeliceFaruolo/logic-apps-templates)
-
+ Multi-system data synchronization with conflict resolution
+ Automated approval workflows with escalation rules
+ Real-time monitoring and alerting for business processes
+ Scalable integration patterns for enterprise applications
+ 
 </div>
 
 ---
@@ -202,12 +181,12 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 <tr>
 <td align="center" width="50%">
 
-### 🔬 **Currently Working On**
-- 🧾 Scaling invoice processing to **13K+ documents** with AI automation
-- 🤖 Advanced **LangGraph agent architectures** for business process automation  
-- 🔮 **ST-GNN research** for spatio-temporal forecasting applications
-- ☁️ **Azure integration patterns** with Logic Apps and distributed systems
-- � Reading latest **AI research papers** in ML and NLP domains
+### **Currently Working On**
+   Scaling invoice processing to **13K+ documents** with AI automation
+-  Advanced **LangGraph agent architectures** for business process automation  
+-  **ST-GNN research** for spatio-temporal forecasting applications
+-  **Azure integration patterns** with Logic Apps and distributed systems
+-  Reading latest **AI research papers** in ML and NLP domains
 
 </td>
 <td align="center" width="50%">
@@ -225,12 +204,12 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 </div>
 
-### 💡 **Ask Me About**
-- 🧾 **Intelligent document processing** with ML models and RAG systems
-- 🤖 **LangGraph agent design** patterns and multi-agent coordination
-- � **Regression models** and advanced forecasting techniques with ST-GNNs
-- ☁️ **Azure Logic Apps** integration and distributed system architectures
-- 🔬 **AI research** implementation and production deployment strategies
+###  **Ask Me About**
+-  **Intelligent document processing** with ML models and RAG systems
+-  **LangGraph agent design** patterns and multi-agent coordination
+-  **Regression models** and advanced forecasting techniques with ST-GNNs
+-  **Azure Logic Apps** integration and distributed system architectures
+-  **AI research** implementation and production deployment strategies
 
 ---
 </div>
@@ -262,14 +241,12 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 ---
 
 <div align="center">
-  
-### 🌟 **"Innovation distinguishes between a leader and a follower"** - Steve Jobs
 
-*Let's build the future of AI together, one algorithm at a time* 🚀
+*Let's build the future of AI together, one algorithm at a time* 
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=8B7355&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn" />
 </div>
 
