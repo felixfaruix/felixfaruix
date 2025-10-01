@@ -192,9 +192,6 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 ---
 
 ### 🏗️ **Azure Logic Apps & Distributed Systems**
-<img src="https://img.shields.io/badge/Status-Production-228B22?style=flat-square&labelColor=F5E6D3" />
-<img src="https://img.shields.io/badge/Azure-Logic%20Apps-0078D4?style=flat-square&labelColor=F5E6D3" />
-<img src="https://img.shields.io/badge/Integration-Enterprise-8B7355?style=flat-square&labelColor=F5E6D3" />
 
 *Enterprise integration platform with Azure Logic Apps for seamless business process automation*
 
@@ -221,19 +218,6 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 [🔗 **Architecture Docs**](https://github.com/FeliceFaruolo/azure-integration) • [🏗️ **Templates**](https://github.com/FeliceFaruolo/logic-apps-templates)
 
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeliceFaruolo&show_icons=true&bg_color=F5F5DC&title_color=8B4513&text_color=8B7355&icon_color=4682B4&border_color=D2B48C&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeliceFaruolo&layout=compact&langs_count=8&bg_color=F5F5DC&title_color=8B4513&text_color=8B7355&border_color=D2B48C&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FeliceFaruolo&theme=default&background=F5F5DC&border=D2B48C&stroke=8B7355&ring=4682B4&fire=CD853F&currStreakNum=8B4513&sideNums=8B4513&currStreakLabel=8B7355&sideLabels=8B7355&dates=8B7355" alt="GitHub Streak" />
 </div>
 
 ---
@@ -277,13 +261,6 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 - 🔬 **AI research** implementation and production deployment strategies
 
 ---
-
-## Achievements & Recognition
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=FeliceFaruolo&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true&title_color=8B4513&text_color=8B7355)
-
 </div>
 
 <div align="center">
@@ -324,13 +301,3 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=8B7355&animation=fadeIn" />
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/FeliceFaruolo/FeliceFaruolo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker&border=true&bg_color=F5F5DC&title_color=8B4513&text_color=8B7355&border_color=D2B48C" />
-</div>
