@@ -226,7 +226,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 <div align="center">
 
-| 📈 **Metric** | 🎯 **Achievement** |
+|  **Metric** |  **Achievement** |
 |:-------------:|:-----------------:|
 | **Documents Automated** | ![Production](https://img.shields.io/badge/6500+-228B22?style=flat-square&labelColor=F5E6D3) |
 | **Automation Rate** | ![Automation](https://img.shields.io/badge/95%25-CD853F?style=flat-square&labelColor=F5E6D3) |
@@ -252,7 +252,6 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 <div align="center">
 
-*Let's build the future of AI together, one algorithm at a time* 
 
 </div>
 
