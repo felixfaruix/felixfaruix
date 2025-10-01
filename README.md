@@ -5,9 +5,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=300&size=22&duration=4000&pause=1500&color=7A7A7A&center=true&vCenter=true&width=400&height=60&lines=Machine+Learning+Passionate;Building+Tomorrow's+AI;Innovating+with+Intelligence" alt="Animated Subtitle" />
 </div>
-
 </div>
-
 ## Tech Stack & Expertise
 
 <div align="center">
