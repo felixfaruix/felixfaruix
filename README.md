@@ -1,19 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,30:764ba2,60:f093fb,100:667eea&height=400&section=header&text=Felice%20Faruolo&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=30&desc=AI%20Solution%20Architect%20•%20Machine%20Learning%20Passionate&descSize=20&descAlignY=55&descColor=E8E8E8&stroke=FFFFFF&strokeWidth=3" />
-</div>
-
-<div align="center" style="margin-top: -50px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Automating+Complex+Workflows;Transforming+Data+into+Insights;Creating+Production-Ready+Solutions" alt="Futuristic Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Felice%20Faruolo&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+Solution+Architect;Machine+Learning+Passionate;RAG+Systems+Specialist;Agent+Orchestration+Expert;Document+Processing+Architect;LangGraph+%26+Azure+Specialist" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,30&height=100&section=header&text=AI%20Solution%20Architect&fontSize=30&fontColor=8B7355&animation=blinking&fontAlignY=70&desc=Transforming%20Ideas%20into%20Intelligent%20Solutions&descAlignY=85&descSize=14" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B7355&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Automating+Complex+Workflows;Transforming+Data+into+Insights;Creating+Production-Ready+Solutions" alt="Secondary Typing SVG" />
-</div>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B7355&center=true&vCenter=true&width=700&lines=AI+Solution+Architect;Machine+Learning+Passionate;RAG+Systems+Specialist;Agent+Orchestration+Expert;Document+Processing+Architect;LangGraph+%26+Azure+Spe
 ---
 ## Tech Stack & Expertise
 
