@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,30:764ba2,70:f093fb,100:ffffff&height=300&section=header&text=Felice%20Faruolo&fontSize=52&fontColor=FFFFFF&animation=blinking&fontAlignY=45&desc=AI%20Solution%20Architect&descSize=22&descAlignY=65&descColor=F0F0F0&stroke=FFFFFF&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,30:764ba2,70:f093fb,100:transparent&height=220&section=header&text=Felice%20Faruolo&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Solution%20Architect&descSize=20&descAlignY=60&descColor=E8E8E8" />
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=300&size=24&duration=3000&pause=1000&color=8A8A8A&center=true&vCenter=true&width=400&height=60&lines=Machine+Learning+Passionate;Building+Tomorrow's+AI;Innovating+with+Intelligence" alt="Animated Subtitle" />
 </div>
+
 
 </div>
 
