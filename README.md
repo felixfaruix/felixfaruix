@@ -1,18 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=**Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shield### Currently Working On
-- ### Ask Me About
-- **Intelligent document processing** with ML models and RAG systems
-- **LangGraph agent design** patterns and multi-agent coordination
-- **Regression models** and advanced forecasting techniques with ST-GNNs
-- **Azure Logic Apps** integration and distributed system architectures
-- **AI research** implementation and production deployment strategiesg invoice processing to **13K+ documents** with AI automation
-- Advanced **LangGraph agent architectures** for business process automation  
-- **ST-GNN research** for spatio-temporal forecasting applications
-- **Azure integration patterns** with Logic Apps and distributed systems
-- Reading latest **AI research papers** in ML and NLP domainsadge/-LangGraph-8B7355?style=flat-square&logo=graph&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![CosmosDB](https://img.shields.io/badge/-CosmosDB-4682B4?style=flat-square&logo=microsoft-azure&logoColor=white)
-
-**Key Achievements:** 70% reduction in manual effort • 95% automation rate • Real-time processing  
-**Impact:** Processing 6,500+ documents/year with intelligent risk-based approval workflowsient&customColorList=12,20,30&height=200&section=header&text=Felice%20Faruolo&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&h**🎯 Features:** Multi-agent coor**🎯 Focus Areas:** ST-GNN architectures • Multi-variate forecasting • Spatial-temporal modeling  
+**### 💡 **Ask Me About**
+- 🧾 **Intelligent document processing** with ML models and RAG systems
+- 🤖 **LangGraph agent design** patterns and multi-agent coordination
+- 📈 **Regression models** and advanced forecasting techniques with ST-GNNs
+- ☁️ **Azure Logic Apps** integration and distributed system architectures
+- 🔬 **AI research** implementation and production deployment strategiesearch:** Novel architectures for complex pattern recognition in time series datanation • Persistent memory • Tool orchestration  
+**🤖 Agents:** Document Parser • Data Validator • Business Logic • Workflow Controllerght=200&section=header&text=Felice%20Faruolo&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <div align="center">
@@ -27,7 +21,6 @@
   <img src="https://komarev.com/ghpv/?username=FeliceFaruolo&color=8B7355&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/FeliceFaruolo?color=8B7355&style=for-the-badge&label=FOLLOWERS" alt="Followers" />
 </div>
-
 ---
 ## Tech Stack & Expertise
 
