@@ -69,10 +69,10 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 *Enterprise-scale document processing system automating 6,500+ invoices annually with 95% automation rate*
 
-** Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-8B7355?style=flat-square&logo=graph&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![CosmosDB](https://img.shields.io/badge/-CosmosDB-4682B4?style=flat-square&logo=microsoft-azure&logoColor=white)
+ Tech Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-8B7355?style=flat-square&logo=graph&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![CosmosDB](https://img.shields.io/badge/-CosmosDB-4682B4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-** Key Achievements:** 70% reduction in manual effort • 95% automation rate • Real-time processing  
-** Impact:** Processing 6,500+ documents/year with intelligent risk-based approval workflows
+ Key Achievements: 70% reduction in manual effort • 95% automation rate • Real-time processing  
+ Impact: Processing 6,500+ documents/year with intelligent risk-based approval workflows
 
 <details>
 <summary> <strong>Technical Architecture</strong></summary>
@@ -89,10 +89,6 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
  Custom OCR pipeline optimized for invoice layouts and formats
  Automated vendor master data reconciliation and validation
 
-</details>
-
-[ **Live System**](https://nedstar.com) • [📊 **Performance Metrics**](https://nedstar.com/invoice-automation)
-
 ---
 
 ###  **LangGraph Agent Orchestration Framework**
@@ -102,7 +98,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 *Advanced multi-agent system for complex business process automation with distributed coordination*
 
-** Tech Stack:** ![LangGraph](https://img.shields.io/badge/-LangGraph-8B7355?style=flat-square&logo=graph&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+ Tech Stack: ![LangGraph](https://img.shields.io/badge/-LangGraph-8B7355?style=flat-square&logo=graph&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
  Features: Multi-agent coordination • Persistent memory • Tool orchestration  
  Agents: Document Parser • Data Validator • Business Logic • Workflow Controller
@@ -120,10 +116,6 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 - **Validation Agent**: Business rule enforcement, data quality checks, compliance verification
 - **Integration Agent**: ERP system connectivity, API orchestration, data synchronization
 - **Monitoring Agent**: Performance tracking, anomaly detection, alert management
-
-</details>
-
-[ **View Framework**](https://github.com/FeliceFaruolo/langgraph-framework) • [📚 **Documentation**](https://langgraph-docs.netlify.app)
 
 ---
 
@@ -152,11 +144,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 - Attention-based temporal modeling with memory mechanisms
 - Multi-scale feature extraction for diverse forecasting horizons
 - Production deployment patterns for real-time inference
-
-</details>
-
-[🔗 **Research Code**](https://github.com/FeliceFaruolo/st-gnn-forecasting) • [📄 **Papers**](https://scholar.google.com/citations?user=your-id)
-
+  
 ---
 
 ###  **Azure Logic Apps & Distributed Systems**
@@ -184,10 +172,6 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 - Automated approval workflows with escalation rules
 - Real-time monitoring and alerting for business processes
 - Scalable integration patterns for enterprise applications
-
-</details>
-
-[ **Architecture Docs**](https://github.com/FeliceFaruolo/azure-integration) • [ **Templates**](https://github.com/FeliceFaruolo/logic-apps-templates)
 
 </div>
 
