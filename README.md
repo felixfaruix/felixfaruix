@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:transparent,15:667eea,35:764ba2,65:f093fb,85:667eea,100:transparent&height=220&section=header&text=Felice%20Faruolo&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Solution%20Architect&descSize=20&descAlignY=60&descColor=E8E8E8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:transparent,20:6B73FF,50:9C88FF,80:6B73FF,100:transparent&height=200&section=header&text=Felice%20Faruolo&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Solution%20Architect&descSize=18&descAlignY=58&descColor=F0F0F0" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=300&size=24&duration=3000&pause=1000&color=8A8A8A&center=true&vCenter=true&width=400&height=60&lines=Machine+Learning+Passionate;Building+Tomorrow's+AI;Innovating+with+Intelligence" alt="Animated Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=300&size=22&duration=4000&pause=1500&color=7A7A7A&center=true&vCenter=true&width=400&height=60&lines=Machine+Learning+Passionate;Building+Tomorrow's+AI;Innovating+with+Intelligence" alt="Animated Subtitle" />
 </div>
 
 </div>
