@@ -48,3 +48,127 @@ I specialize in building end-to-end AI solutions that bridge cutting-edge resear
 <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
 <img src="https://img.shields.io/badge/PyTorch-1.13+-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/Research-Paper-orange?style=flat-square" />
+
+📄 Intelligent Invoice Automation Platform
+<img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-Latest-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-0.104+-green?style=flat-square" />
+End-to-end document processing with autonomous agents
+<details>
+<summary>🔍 Technical Details</summary>
+
+RAG Pipeline: ChromaDB + OpenAI Embeddings
+Agent Framework: LangGraph with custom tools
+OCR Engine: Tesseract + LayoutLM for structure extraction
+Workflow Engine: Temporal for orchestration
+Key Capabilities:
+
+Multi-format invoice parsing (PDF, images, emails)
+Intelligent field extraction with 98% accuracy
+Automated validation and approval workflows
+Real-time processing with event streaming
+
+
+
+mermaidgraph LR
+    A[Invoice Input] --> B[OCR/Extraction]
+    B --> C[RAG Enhancement]
+    C --> D[Validation Agent]
+    D --> E[Approval Workflow]
+    E --> F[ERP Integration]
+View Repository →
+</details>
+
+🤖 LangGraph Multi-Agent System
+<img src="https://img.shields.io/badge/Status-Development-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-0.0.26+-blue?style=flat-square" />
+Orchestrated AI agents for complex business processes
+<details>
+<summary>🔍 Technical Details</summary>
+
+Agent Types: Research, Analysis, Execution, Monitoring
+Memory: Persistent conversation memory with Redis
+Tools: 15+ custom tools for data access and processing
+Coordination: State machines for agent orchestration
+
+View Repository →
+</details>
+</div>
+
+📊 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+🎯 Current Focus
+
+🔭 Working on: Hierarchical forecasting models for supply chain optimization
+🌱 Learning: Mamba architectures and state-space models
+👯 Looking to collaborate on: RAG systems and production ML pipelines
+💬 Ask me about: Deep learning, time series, document AI, LangGraph agents
+
+
+📚 Recent Blog Posts & Research
+<!-- BLOG-POST-LIST:START -->
+
+Building Production RAG Systems with LangGraph
+Hierarchical Forecasting: A Multi-Scale Approach
+Invoice Automation: From OCR to Intelligence
+
+<!-- BLOG-POST-LIST:END -->
+
+🏆 Achievements
+
+🥇 Top 5% in M5 Forecasting Competition
+📝 3 Papers on hierarchical time series modeling
+🚀 10+ Production ML systems deployed
+💼 $2M+ saved through automation solutions
+
+
+📫 Connect With Me
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=20&animation=fadeIn" />
+</div>
+```
+Step 3: Customize Your Profile
+
+Replace yourusername with your GitHub username
+Update project links and descriptions
+Add your actual blog posts or remove that section
+Update the statistics and achievements
+Add your contact information
+
+Step 4: Optional Enhancements
+Add a Snake Animation (shows your contribution graph)
+Create .github/workflows/snake.yml:
+yamlname: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: yourusername
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
