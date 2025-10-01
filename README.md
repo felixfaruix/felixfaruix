@@ -89,7 +89,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
  Custom OCR pipeline optimized for invoice layouts and formats
  Automated vendor master data reconciliation and validation
 
- <details>
+ </details>
 
 ---
 
@@ -119,7 +119,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
  **Integration Agent**: ERP system connectivity, API orchestration, data synchronization
  **Monitoring Agent**: Performance tracking, anomaly detection, alert management
 
-<details>
+ </details>
 
 ---
 
@@ -149,7 +149,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
  Multi-scale feature extraction for diverse forecasting horizons
  Production deployment patterns for real-time inference
   
-<details>
+ </details>
 ---
 
 ###  **Azure Logic Apps & Distributed Systems**
@@ -177,7 +177,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
  Automated approval workflows with escalation rules
  Real-time monitoring and alerting for business processes
  Scalable integration patterns for enterprise applications
-<details>
+ </details>
 </div>
 
 ---
