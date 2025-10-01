@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,30&height=300&section=header&text=Felice%20Faruolo&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,30:764ba2,70:f093fb,100:ffffff&height=300&section=header&text=Felice%20Faruolo&fontSize=52&fontColor=FFFFFF&animation=blinking&fontAlignY=45&desc=AI%20Solution%20Architect&descSize=22&descAlignY=65&descColor=F0F0F0&stroke=FFFFFF&strokeWidth=1" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B7355&center=true&vCenter=true&width=700&lines=AI+Solution+Architect;Machine+Learning+Passionate;RAG+Systems+Specialist;Agent+Orchestration+Expert;Document+Processing+Architect;LangGraph+%26+Azure+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=300&size=24&duration=3000&pause=1000&color=8A8A8A&center=true&vCenter=true&width=400&height=60&lines=Machine+Learning+Passionate;Building+Tomorrow's+AI;Innovating+with+Intelligence" alt="Animated Subtitle" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Automating+Complex+Workflows;Transforming+Data+into+Insights;Creating+Production-Ready+Solutions" alt="Secondary Typing SVG" />
 </div>
----
+
+</div>
+
 ## Tech Stack & Expertise
 
 <div align="center">
@@ -59,7 +59,6 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 - Deployed **intelligent document processing** with custom ML models trained on 2 years of historical data, automating **95% of invoices**
 - Integrated **RAG system with Business Central & Azure**, implementing risk-based approval workflows with **Blob Storage** with consecutive real-time stream of changes via webhook, **CosmosDB** for state management and **FastAPI** for serving
 
----
 ---
 
 ## Featured Projects
