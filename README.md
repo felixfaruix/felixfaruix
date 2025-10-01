@@ -22,6 +22,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-8B7355?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-D2B48C?style=for-the-badge&logo=openai&logoColor=8B4513)
 ![LangGraph](https://img.shields.io/badge/LangGraph-DEB887?style=for-the-badge&logo=graph&logoColor=8B4513)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCA28?style=for-the-badge&logo=HuggingFace&logoColor=black)
 
 ### Backend & Infrastructure
 ![FastAPI](https://img.shields.io/badge/FastAPI-4682B4?style=for-the-badge&logo=fastapi&logoColor=white)
