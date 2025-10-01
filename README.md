@@ -78,10 +78,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 - Deployed **intelligent document processing** with custom ML models trained on 2 years of historical data, automating **95% of invoices**
 - Integrated **RAG system with Business Central & Azure**, implementing risk-based approval workflows with **Blob Storage** with consecutive real-time stream of changes via webhook, **CosmosDB** for state management and **FastAPI** for serving
 
-> *"Turning AI research into production-ready solutions that drive business transformation"*
-
 ---
-
 ---
 
 ## Featured Projects
