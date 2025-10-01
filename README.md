@@ -69,106 +69,126 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 *Enterprise-scale document processing system automating 6,500+ invoices annually with 95% automation rate*
 
-**🔧 Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-8B7355?style=flat-square&logo=graph&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![CosmosDB](https://img.shields.io/badge/-CosmosDB-4682B4?style=flat-square&logo=microsoft-azure&logoColor=white)
+** Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-8B7355?style=flat-square&logo=graph&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![CosmosDB](https://img.shields.io/badge/-CosmosDB-4682B4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-**🎯 Key Achievements:** 70% reduction in manual effort • 95% automation rate • Real-time processing  
+** Key Achievements:** 70% reduction in manual effort • 95% automation rate • Real-time processing  
+** Impact:** Processing 6,500+ documents/year with intelligent risk-based approval workflows
 
 <details>
-<summary><strong>Technical Architecture</strong></summary>
+<summary> <strong>Technical Architecture</strong></summary>
 
- **RAG Pipeline**: Custom ML models trained on 2 years of historical invoice data
- **Integration Layer**: Business Central & Azure Blob Storage with real-time webhooks
- **State Management**: CosmosDB for persistent workflow state and audit trails
- **API Layer**: FastAPI for high-performance document processing endpoints
- **Orchestration**: LangGraph agents for intelligent workflow routing and validation
+- **RAG Pipeline**: Custom ML models trained on 2 years of historical invoice data
+- **Integration Layer**: Business Central & Azure Blob Storage with real-time webhooks
+- **State Management**: CosmosDB for persistent workflow state and audit trails
+- **API Layer**: FastAPI for high-performance document processing endpoints
+- **Orchestration**: LangGraph agents for intelligent workflow routing and validation
 
 **Key Innovations:**
- Risk-based approval routing with ML-driven confidence scoring
- Real-time stream processing for immediate invoice status updates
- Custom OCR pipeline optimized for invoice layouts and formats
- Automated vendor master data reconciliation and validation
- 
+- Risk-based approval routing with ML-driven confidence scoring
+- Real-time stream processing for immediate invoice status updates
+- Custom OCR pipeline optimized for invoice layouts and formats
+- Automated vendor master data reconciliation and validation
+
+</details>
+
+[ **Live System**](https://nedstar.com) • [📊 **Performance Metrics**](https://nedstar.com/invoice-automation)
+
 ---
 
-### � **LangGraph Agent Orchestration Framework**
+###  **LangGraph Agent Orchestration Framework**
 <img src="https://img.shields.io/badge/Status-Active-228B22?style=flat-square&labelColor=F5E6D3" />
 <img src="https://img.shields.io/badge/LangGraph-0.2+-4682B4?style=flat-square&labelColor=F5E6D3" />
 <img src="https://img.shields.io/badge/Research-Focus-DEB887?style=flat-square&labelColor=F5E6D3" />
 
 *Advanced multi-agent system for complex business process automation with distributed coordination*
 
-**🔧 Tech Stack:** ![LangGraph](https://img.shields.io/badge/-LangGraph-8B7355?style=flat-square&logo=graph&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+** Tech Stack:** ![LangGraph](https://img.shields.io/badge/-LangGraph-8B7355?style=flat-square&logo=graph&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**🎯 Features:** Multi-agent coordination • Persistent memory • Tool orchestration  
-**� Agents:** Document Parser • Data Validator • Business Logic • Workflow Controller
+** Features:** Multi-agent coordination • Persistent memory • Tool orchestration  
+** Agents:** Document Parser • Data Validator • Business Logic • Workflow Controller
 
 <details>
 <summary> <strong>Agent Architecture</strong></summary>
 
- **Coordination Layer**: State machines for complex workflow orchestration
- **Memory Management**: Redis-backed persistent conversation and context memory
- **Tool Integration**: 12+ specialized tools for data processing and external system integration
- **Monitoring**: Real-time agent performance tracking and decision logging
+- **Coordination Layer**: State machines for complex workflow orchestration
+- **Memory Management**: Redis-backed persistent conversation and context memory
+- **Tool Integration**: 12+ specialized tools for data processing and external system integration
+- **Monitoring**: Real-time agent performance tracking and decision logging
 
 **Agent Specializations:**
- **Document Agent**: Multi-format parsing, structure extraction, content validation
- **Validation Agent**: Business rule enforcement, data quality checks, compliance verification
- **Integration Agent**: ERP system connectivity, API orchestration, data synchronization
- **Monitoring Agent**: Performance tracking, anomaly detection, alert management
+- **Document Agent**: Multi-format parsing, structure extraction, content validation
+- **Validation Agent**: Business rule enforcement, data quality checks, compliance verification
+- **Integration Agent**: ERP system connectivity, API orchestration, data synchronization
+- **Monitoring Agent**: Performance tracking, anomaly detection, alert management
+
+</details>
+
+[ **View Framework**](https://github.com/FeliceFaruolo/langgraph-framework) • [📚 **Documentation**](https://langgraph-docs.netlify.app)
 
 ---
 
-### 📊 **Regression Models & Forecasting Systems**
+###  **Regression Models & Forecasting Systems**
 <img src="https://img.shields.io/badge/Status-Research-DEB887?style=flat-square&labelColor=F5E6D3" />
 <img src="https://img.shields.io/badge/PyTorch-2.0+-CD853F?style=flat-square&labelColor=F5E6D3" />
 <img src="https://img.shields.io/badge/ST--GNN-Advanced-4682B4?style=flat-square&labelColor=F5E6D3" />
 
 *Advanced time series forecasting with Spatio-Temporal Graph Neural Networks for complex pattern recognition*
 
-**🔧 Tech Stack:** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+** Tech Stack:** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**🎯 Focus Areas:** ST-GNN architectures • Multi-variate forecasting • Spatial-temporal modeling  
-**� Research:** Novel architectures for complex pattern recognition in time series data
+** Focus Areas:** ST-GNN architectures • Multi-variate forecasting • Spatial-temporal modeling  
+** Research:** Novel architectures for complex pattern recognition in time series data
 
 <details>
-<summary>🔍 <strong>Research & Innovation</strong></summary>
+<summary> <strong>Research & Innovation</strong></summary>
 
- **ST-GNN Models**: Spatio-Temporal Graph Neural Networks for capturing complex dependencies
- **Forecasting Pipeline**: End-to-end system for multi-horizon prediction tasks
- **Model Architecture**: Custom attention mechanisms for temporal and spatial relationships
- **Evaluation Framework**: Comprehensive benchmarking against traditional and modern methods
+- **ST-GNN Models**: Spatio-Temporal Graph Neural Networks for capturing complex dependencies
+- **Forecasting Pipeline**: End-to-end system for multi-horizon prediction tasks
+- **Model Architecture**: Custom attention mechanisms for temporal and spatial relationships
+- **Evaluation Framework**: Comprehensive benchmarking against traditional and modern methods
 
 **Technical Contributions:**
- Novel graph construction methods for time series relationships
- Attention-based temporal modeling with memory mechanisms
- Multi-scale feature extraction for diverse forecasting horizons
- Production deployment patterns for real-time inference
- 
+- Novel graph construction methods for time series relationships
+- Attention-based temporal modeling with memory mechanisms
+- Multi-scale feature extraction for diverse forecasting horizons
+- Production deployment patterns for real-time inference
+
+</details>
+
+[🔗 **Research Code**](https://github.com/FeliceFaruolo/st-gnn-forecasting) • [📄 **Papers**](https://scholar.google.com/citations?user=your-id)
+
 ---
 
-### 🏗️ **Azure Logic Apps & Distributed Systems**
+###  **Azure Logic Apps & Distributed Systems**
+<img src="https://img.shields.io/badge/Status-Production-228B22?style=flat-square&labelColor=F5E6D3" />
+<img src="https://img.shields.io/badge/Azure-Logic%20Apps-0078D4?style=flat-square&labelColor=F5E6D3" />
+<img src="https://img.shields.io/badge/Integration-Enterprise-8B7355?style=flat-square&labelColor=F5E6D3" />
 
 *Enterprise integration platform with Azure Logic Apps for seamless business process automation*
 
-**🔧 Tech Stack:** ![Azure](https://img.shields.io/badge/-Azure%20Logic%20Apps-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![PowerAutomate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=microsoft&logoColor=white) ![ServiceBus](https://img.shields.io/badge/-Service%20Bus-228B22?style=flat-square&logo=microsoft-azure&logoColor=white)
+** Tech Stack:** ![Azure](https://img.shields.io/badge/-Azure%20Logic%20Apps-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![PowerAutomate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=microsoft&logoColor=white) ![ServiceBus](https://img.shields.io/badge/-Service%20Bus-228B22?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-**🎯 Solutions:** Workflow automation • System integration • Event-driven architectures  
-**🔗 Integrations:** ERP systems • CRM platforms • Document management • API orchestration
+** Solutions:** Workflow automation • System integration • Event-driven architectures  
+** Integrations:** ERP systems • CRM platforms • Document management • API orchestration
 
 <details>
-<summary>🔍 <strong>Integration Architecture</strong></summary>
+<summary> <strong>Integration Architecture</strong></summary>
 
- **Workflow Engine**: Azure Logic Apps for complex business process orchestration
- **Event Processing**: Real-time event streaming and processing pipelines
- **API Management**: Centralized API gateway with authentication and rate limiting
- **Data Transformation**: ETL pipelines for data harmonization across systems
+- **Workflow Engine**: Azure Logic Apps for complex business process orchestration
+- **Event Processing**: Real-time event streaming and processing pipelines
+- **API Management**: Centralized API gateway with authentication and rate limiting
+- **Data Transformation**: ETL pipelines for data harmonization across systems
 
 **Key Implementations:**
- Multi-system data synchronization with conflict resolution
- Automated approval workflows with escalation rules
- Real-time monitoring and alerting for business processes
- Scalable integration patterns for enterprise applications
- 
+- Multi-system data synchronization with conflict resolution
+- Automated approval workflows with escalation rules
+- Real-time monitoring and alerting for business processes
+- Scalable integration patterns for enterprise applications
+
+</details>
+
+[ **Architecture Docs**](https://github.com/FeliceFaruolo/azure-integration) • [ **Templates**](https://github.com/FeliceFaruolo/logic-apps-templates)
+
 </div>
 
 ---
