@@ -44,7 +44,7 @@
 
 ## About Me
 
-I am an **AI graduate** with passion and hands-on experience in **Machine Learning**, **forecasting**, **Regression models**, **RAG systems**, **Agent Orchestration via LangGraph**, and **Distributed Systems** with **Azure Logic Apps**. Currently working as an **AI/Software Developer** at **Nedstar** in Amsterdam, Netherlands, where I have experience in **Business Process Automation** and have worked on various transition projects.
+I am an **AI graduate** with passion and hands-on experience in **Machine Learning**, **forecasting**, **Regression models**, **RAG systems**, **Agent Orchestration via LangGraph**, and **Distributed Systems** with **Azure Logic Apps**. Currently working as an **AI/Software Developer** at **Nedstar** in Amsterdam, Netherlands, where I have experience in **Business Process Automation**.
 
 I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing solutions through innovative model architectures. In my free time I also read the newest research papers in the field.
 
