@@ -72,7 +72,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 *Enterprise-scale document processing system automating 6,500+ invoices annually with 95% automation rate*
 
- Tech Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-8B7355?style=flat-square&logo=graph&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![CosmosDB](https://img.shields.io/badge/-CosmosDB-4682B4?style=flat-square&logo=microsoft-azure&logoColor=white)
+ Tech Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![CosmosDB](https://img.shields.io/badge/-CosmosDB-4682B4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
  Key Achievements: 70% reduction in manual effort • 95% automation rate • Real-time processing  
  Impact: Processing 6,500+ documents/year with intelligent risk-based approval workflows
@@ -163,7 +163,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 *Enterprise integration platform with Azure Logic Apps for seamless business process automation*
 
- Tech Stack: ![Azure](https://img.shields.io/badge/-Azure%20Logic%20Apps-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![PowerAutomate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=microsoft&logoColor=white) ![ServiceBus](https://img.shields.io/badge/-Service%20Bus-228B22?style=flat-square&logo=microsoft-azure&logoColor=white)
+ Tech Stack: ![Azure](https://img.shields.io/badge/-Azure%20Logic%20Apps-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![LogicApp](https://img.shields.io/badge/-Logic%20App-0066FF?style=flat-square&logo=microsoft&logoColor=white) ![ServiceBus](https://img.shields.io/badge/-Service%20Bus-228B22?style=flat-square&logo=microsoft-azure&logoColor=white)
 
  Solutions: Workflow automation • System integration • Event-driven architectures  
  Integrations: ERP systems • CRM platforms • Document management • API orchestration
