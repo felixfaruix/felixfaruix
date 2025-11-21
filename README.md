@@ -214,7 +214,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 ###  **Ask Me About**
 -  **Intelligent document processing** with ML models and RAG systems
--  **Regression models** and advanced forecasting techniques with ST-GNNs
+-  **Regression models** and advanced forecasting techniques with hierarchical LSTM 
 -  **Azure Logic Apps** integration and distributed system architectures
 -  **AI research** implementation and production deployment strategies
 
