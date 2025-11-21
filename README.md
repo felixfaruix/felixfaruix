@@ -158,7 +158,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 *Enterprise integration platform with Azure Logic Apps for seamless business process automation*
 
- Tech Stack: ![Azure](https://img.shields.io/badge/-Azure%20Logic%20Apps-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![LogicApp](https://img.shields.io/badge/-Logic%20App-0066FF?style=flat-square&logo=microsoft&logoColor=white) ![ServiceBus](https://img.shields.io/badge/-Service%20Bus-228B22?style=flat-square&logo=microsoft-azure&logoColor=white)
+ Tech Stack: ![Azure](https://img.shields.io/badge/-Azure%20Logic%20Apps-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![LogicApp](https://img.shields.io/badge/-Azure%20SQL-0066FF?style=flat-square&logo=microsoft&logoColor=white) ![ServiceBus](https://img.shields.io/badge/-Service%20Bus-228B22?style=flat-square&logo=microsoft-azure&logoColor=white)
 
  Solutions: Workflow automation • System integration • Event-driven architectures  
  Integrations: ERP systems • CRM platforms • Document management • API orchestration
