@@ -101,7 +101,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 <img src="https://img.shields.io/badge/LangGraph-0.2+-4682B4?style=flat-square&labelColor=F5E6D3" />
 <img src="https://img.shields.io/badge/Research-Focus-DEB887?style=flat-square&labelColor=F5E6D3" />
 
-*Advanced multi-agent system for complex business process automation with distributed coordination*
+*Multi-agent system for business process automation with distributed coordination*
 
  Tech Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
@@ -196,7 +196,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
   
 ### Currently Working On
   Scaling invoice processing to **13K+ documents** with AI automation
-  Advanced **LangGraph agent architectures** for business process automation  
+  for business process automation  
   **ST-GNN research** for spatio-temporal forecasting applications
   **Azure integration patterns** with Logic Apps and distributed systems
   Reading latest **AI research papers** in ML and NLP domains
