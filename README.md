@@ -67,7 +67,6 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 ### Intelligent Invoice Processing System @ Nedstar
 <img src="https://img.shields.io/badge/Status-Production-228B22?style=flat-square&labelColor=F5E6D3" />
-<img src="https://img.shields.io/badge/LangGraph-Latest-4682B4?style=flat-square&labelColor=F5E6D3" />
 <img src="https://img.shields.io/badge/Azure-Active-CD853F?style=flat-square&labelColor=F5E6D3" />
 
 *Enterprise-scale document processing system automating 6,500+ invoices annually with 95% automation rate*
@@ -98,8 +97,6 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 ###  **Agent Orchestration Framework**
 <img src="https://img.shields.io/badge/Status-Active-228B22?style=flat-square&labelColor=F5E6D3" />
-<img src="https://img.shields.io/badge/LangGraph-0.2+-4682B4?style=flat-square&labelColor=F5E6D3" />
-<img src="https://img.shields.io/badge/Research-Focus-DEB887?style=flat-square&labelColor=F5E6D3" />
 
 *Multi-agent system for business process automation with distributed coordination*
 
@@ -127,9 +124,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 ---
 
 ###  **Regression Models & Forecasting Systems**
-<img src="https://img.shields.io/badge/Status-Research-DEB887?style=flat-square&labelColor=F5E6D3" />
 <img src="https://img.shields.io/badge/PyTorch-2.0+-CD853F?style=flat-square&labelColor=F5E6D3" />
-<img src="https://img.shields.io/badge/ST--GNN-Advanced-4682B4?style=flat-square&labelColor=F5E6D3" />
 
 *Advanced time series forecasting with hierarchical LSTM for complex pattern recognition*
 
