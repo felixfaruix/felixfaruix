@@ -181,8 +181,6 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 ---
 
-## Connect With Me
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B7355?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/felice-faruolo](https://www.linkedin.com/in/felixfaruolo/))
@@ -195,7 +193,6 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 ---
 
 <div align="center">
-
 
 </div>
 
