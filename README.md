@@ -181,48 +181,6 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 ---
 
-##  Current Focus & Collaboration
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-  
-### Currently Working On
-  Scaling invoice processing to **13K+ documents** with AI automation
-  for business process automation  
-  **ST-GNN research** for spatio-temporal forecasting applications
-  **Azure integration patterns** with Logic Apps and distributed systems
-  Reading latest **AI research papers** in ML and NLP domains
-
-</td>
-<td align="center" width="50%">
-  
-### Looking to Collaborate
- **RAG systems** optimization and vector database architectures
- **Production ML pipelines** for enterprise document processing
- **Agent orchestration** patterns with LangGraph
- **Time series forecasting** with graph neural networks
- **Azure AI architectures** and deployment strategies
-
-</td>
-</tr>
-</table>
-
-</div>
-
-###  **Ask Me About**
--  **Intelligent document processing** with ML models and RAG systems
--  **Regression models** and advanced forecasting techniques with hierarchical LSTM 
--  **Azure Logic Apps** integration and distributed system architectures
--  **AI research** implementation and production deployment strategies
-
----
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
