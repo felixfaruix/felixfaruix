@@ -221,17 +221,6 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 ---
 </div>
 
-<div align="center">
-
-|  **Metric** |  **Achievement** |
-|:-------------:|:-----------------:|
-| **Documents Automated** | ![Production](https://img.shields.io/badge/6500+-228B22?style=flat-square&labelColor=F5E6D3) |
-| **Automation Rate** | ![Automation](https://img.shields.io/badge/95%25-CD853F?style=flat-square&labelColor=F5E6D3) |
-| **Manual Effort Reduction** | ![Efficiency](https://img.shields.io/badge/70%25-4682B4?style=flat-square&labelColor=F5E6D3) |
-| **Production ML Models** | ![Models](https://img.shields.io/badge/5+-8B7355?style=flat-square&labelColor=F5E6D3) |
-
-</div>
-
 ---
 
 ## Connect With Me
