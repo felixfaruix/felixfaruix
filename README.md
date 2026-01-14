@@ -11,10 +11,9 @@
 
 <div align="center">
 
-### Programming Languages  
+### Programming Language
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=48)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=48)
 
 ### AI/ML Core
 ![PyTorch](https://img.shields.io/badge/PyTorch-8B4513?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -189,8 +188,6 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 [![Nedstar](https://img.shields.io/badge/Nedstar-228B22?style=for-the-badge&logo=building&logoColor=white)](https://nedstar.com)
 
 </div>
-
----
 
 <div align="center">
 
