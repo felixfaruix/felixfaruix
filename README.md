@@ -40,7 +40,7 @@
 
 ## About Me
 
-I am an **AI graduate** with passion and hands-on experience in **Machine Learning**, **forecasting**, **Regression models**, **RAG systems**, **Agent Orchestration via LangGraph**, and **Distributed Systems** with **Azure Logic Apps**. Currently working as an **AI/Software Developer** at **Nedstar** in Amsterdam, Netherlands, where I have experience in **Business Process Automation**.
+I am an **AI Engineer** with passion and hands-on experience in **Advanced RAG Systems**, **Agentic AI**,**Machine Learning**, **forecasting**, **Regression models**, **RAG systems**, **Agent Orchestration via LangGraph**, and **Distributed Systems** with **Azure Logic Apps**. Currently working as an **AI Engineer** at **Endeavour** in Haarlem, Netherlands, where I am working on a Conversational AI search engine. 
 
 I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing solutions through innovative model architectures. In my free time I also read the newest research papers in the field.
 
@@ -53,7 +53,8 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 - **Advanced English Course** - *TM International School of English, Cambridge, UK*
 
 ### Professional Experience
-**AI/Software Developer** at **Nedstar** (2025) - *Amsterdam, North-Holland, Netherlands*
+**AI Engineer** at Endeavour (2026)
+**AI/Software Developer** at **Nedstar** (July 2025 - February 2026) - *Amsterdam, North-Holland, Netherlands*
 - Independently automated invoice processing for **6,500+ documents/year** using AI, cutting manual effort by **70%**
 - Deployed **intelligent document processing** with custom ML models trained on 2 years of historical data, automating **95% of invoices**
 - Integrated **RAG system with Business Central & Azure**, implementing risk-based approval workflows with **Blob Storage** with consecutive real-time stream of changes via webhook, **CosmosDB** for state management and **FastAPI** for serving
