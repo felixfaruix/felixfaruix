@@ -40,7 +40,7 @@
 
 ## About Me
 
-I am an **AI Engineer** with passion and hands-on experience in **Advanced RAG Systems**, **Agentic AI**,**Machine Learning**, **forecasting**, **Regression models**, **RAG systems**, **Agent Orchestration via LangGraph**, and **Distributed Systems** with **Azure Logic Apps**. Currently working as an **AI Engineer** at **Endeavour** in Haarlem, Netherlands, where I am working on a Conversational AI search engine. 
+I am an **AI Engineer** with passion and hands-on experience in **Advanced RAG Systems**, **Agentic AI**, **Machine Learning**, **forecasting**, **Regression models**, **Agent Orchestration via LangGraph**, and **Distributed Systems** with **Azure Logic Apps**. Currently working as an **AI Engineer** at **Endeavour** in Haarlem, Netherlands, where I am working on a Conversational AI search engine. 
 
 I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing solutions through innovative model architectures. In my free time I also read the newest research papers in the field.
 
