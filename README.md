@@ -11,30 +11,7 @@
 
 <div align="center">
 
-### Programming Language
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=48)
-
-### AI/ML Core
-![PyTorch](https://img.shields.io/badge/PyTorch-8B4513?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F5E6D3?style=for-the-badge&logo=scikit-learn&logoColor=8B4513)
-![Pandas](https://img.shields.io/badge/pandas-228B22?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-4682B4?style=for-the-badge&logo=numpy&logoColor=white)
-
-### LLM & RAG Systems
-![LangChain](https://img.shields.io/badge/LangChain-8B7355?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-D2B48C?style=for-the-badge&logo=openai&logoColor=8B4513)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCA28?style=for-the-badge&logo=HuggingFace&logoColor=black)
-
-### Backend & Infrastructure
-![FastAPI](https://img.shields.io/badge/FastAPI-4682B4?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-4682B4?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-CD853F?style=for-the-badge&logo=redis&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-4682B4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### Data Engineering
-![PostgreSQL](https://img.shields.io/badge/postgres-228B22?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-228B22?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=48) ![PyTorch](https://img.shields.io/badge/PyTorch-8B4513?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F5E6D3?style=for-the-badge&logo=scikit-learn&logoColor=8B4513) ![Pandas](https://img.shields.io/badge/pandas-228B22?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-4682B4?style=for-the-badge&logo=numpy&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-8B7355?style=for-the-badge&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-D2B48C?style=for-the-badge&logo=openai&logoColor=8B4513) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCA28?style=for-the-badge&logo=HuggingFace&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-4682B4?style=for-the-badge&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/docker-4682B4?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/redis-CD853F?style=for-the-badge&logo=redis&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-4682B4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-228B22?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-228B22?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
