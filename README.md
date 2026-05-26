@@ -37,7 +37,8 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 ## Featured Projects
 
 <div align="center">
-### Intelligent Invoice Processing System @ Nedstar
+  
+**Intelligent Invoice Processing System** @ Nedstar
 <img src="https://img.shields.io/badge/Status-Production-228B22?style=flat-square&labelColor=F5E6D3" />
 <img src="https://img.shields.io/badge/Azure-Active-CD853F?style=flat-square&labelColor=F5E6D3" />
 
@@ -67,7 +68,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
  
 ---
 
-###  **Agent Orchestration Framework**
+**Agent Orchestration Framework**
 <img src="https://img.shields.io/badge/Status-Active-228B22?style=flat-square&labelColor=F5E6D3" />
 
 *Multi-agent system for business process automation with distributed coordination*
