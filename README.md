@@ -26,6 +26,7 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 
 ### Professional Experience
 **AI Engineer** at Endeavour (2026)
+
 **AI/Software Developer** at **Nedstar** (July 2025 - February 2026) - *Amsterdam, North-Holland, Netherlands*
 - Independently automated invoice processing for **6,500+ documents/year** using AI, cutting manual effort by **70%**
 - Deployed **intelligent document processing** with custom ML models trained on 2 years of historical data, automating **95% of invoices**
