@@ -162,12 +162,6 @@ I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing
 [![Nedstar](https://img.shields.io/badge/Nedstar-228B22?style=for-the-badge&logo=building&logoColor=white)](https://nedstar.com)
 
 </div>
-
 <div align="center">
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn" />
 </div>
 
