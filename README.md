@@ -1,38 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:transparent,20:6B73FF,50:9C88FF,80:6B73FF,100:transparent&height=200&section=header&text=Felice%20Faruolo&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer&descSize=18&descAlignY=58&descColor=F0F0F0&font=Roboto%20Mono" />
-</div>
-
-## Tech Stack & Expertise
+## Tech Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=48) ![PyTorch](https://img.shields.io/badge/PyTorch-8B4513?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F5E6D3?style=for-the-badge&logo=scikit-learn&logoColor=8B4513) ![Pandas](https://img.shields.io/badge/pandas-228B22?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-4682B4?style=for-the-badge&logo=numpy&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-8B7355?style=for-the-badge&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-D2B48C?style=for-the-badge&logo=openai&logoColor=8B4513) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCA28?style=for-the-badge&logo=HuggingFace&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-4682B4?style=for-the-badge&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/docker-4682B4?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/redis-CD853F?style=for-the-badge&logo=redis&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-4682B4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-228B22?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-228B22?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
-
-## About Me
-
-I am an **AI Engineer** with passion and hands-on experience in **Advanced RAG Systems**, **Agentic AI**, **Machine Learning**, **forecasting**, **Regression models**, **Agent Orchestration via LangGraph**, and **Distributed Systems** with **Azure Logic Apps**. Currently working as an **AI Engineer** at **Endeavour** in Haarlem, Netherlands, where I am working on a Conversational AI search engine. 
-
-I am passionate about complex **ML models** like **ST-GNNs** and enjoy designing solutions through innovative model architectures. In my free time I also read the newest research papers in the field.
-
-### Education
-- **BSc in Artificial Intelligence** - *Vrije Universiteit Amsterdam, The Netherlands* (2024)
-  - Focus on: Intelligent Systems, applied machine learning and software applications
-  - Advanced topics: Computational Intelligence, Machine learning, Text mining (NLP), Software Engineering, Knowledge representation, Logic, Machine Learning, Statistics
-- **Bachelor's in Management Engineering** - *Uninettuno University, Italy*
-  - Mathematics, Physics, Business Administration, Statistics, Thermodynamics
-- **Advanced English Course** - *TM International School of English, Cambridge, UK*
-
-### Professional Experience
-**AI Engineer** at Endeavour (2026)
-
-**AI/Software Developer** at **Nedstar** (July 2025 - February 2026) - *Amsterdam, North-Holland, Netherlands*
-- Independently automated invoice processing for **6,500+ documents/year** using AI, cutting manual effort by **70%**
-- Deployed **intelligent document processing** with custom ML models trained on 2 years of historical data, automating **95% of invoices**
-- Integrated **RAG system with Business Central & Azure**, implementing risk-based approval workflows with **Blob Storage** with consecutive real-time stream of changes via webhook, **CosmosDB** for state management and **FastAPI** for serving
-
----
 
 ## Featured Projects
 
