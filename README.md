@@ -93,35 +93,6 @@
  Production deployment patterns for real-time inference
   
  </details>
- 
----
-
-###  **Azure Logic Apps & Distributed Systems**
-<img src="https://img.shields.io/badge/Status-Production-228B22?style=flat-square&labelColor=F5E6D3" />
-<img src="https://img.shields.io/badge/Azure-Logic%20Apps-0078D4?style=flat-square&labelColor=F5E6D3" />
-<img src="https://img.shields.io/badge/Integration-Enterprise-8B7355?style=flat-square&labelColor=F5E6D3" />
-
-*Enterprise integration platform with Azure Logic Apps for seamless business process automation*
-
- Tech Stack: ![Azure](https://img.shields.io/badge/-Azure%20Logic%20Apps-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![LogicApp](https://img.shields.io/badge/-Azure%20SQL-0066FF?style=flat-square&logo=microsoft&logoColor=white) ![ServiceBus](https://img.shields.io/badge/-Service%20Bus-228B22?style=flat-square&logo=microsoft-azure&logoColor=white)
-
- Solutions: Workflow automation • System integration • Event-driven architectures  
- Integrations: ERP systems • CRM platforms • Document management • API orchestration
-
-<details>
-<summary> <strong>Integration Architecture</strong></summary>
-
- **Workflow Engine**: Azure Logic Apps for complex business process orchestration
- **Event Processing**: Real-time event streaming and processing pipelines
- **API Management**: Centralized API gateway with authentication and rate limiting
- **Data Transformation**: ETL pipelines for data harmonization across systems
-
-**Key Implementations:**
- Multi-system data synchronization with conflict resolution
- Automated approval workflows with escalation rules
- Real-time monitoring and alerting for business processes
- Scalable integration patterns for enterprise applications
- </details>
 </div>
 
 ---
@@ -131,7 +102,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B7355?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/felice-faruolo](https://www.linkedin.com/in/felixfaruolo/))
 [![Email](https://img.shields.io/badge/Email-D2B48C?style=for-the-badge&logo=gmail&logoColor=8B4513)](mailto:felice.faruolo@nedstar.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4682B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felixfaruix)
-[![Nedstar](https://img.shields.io/badge/Nedstar-228B22?style=for-the-badge&logo=building&logoColor=white)](https://nedstar.com)
 
 </div>
 <div align="center">
